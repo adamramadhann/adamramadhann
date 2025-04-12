@@ -18,7 +18,6 @@ Hi! I'm Adam, a Frontend Developer with a passion for building intuitive and sca
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js
 - **Database**: MySQL
-``- **DevOps**: AWS, Docker, CI/CD Pipeline``
 - **UI/UX**: Responsive Design, Wireframing, Prototyping
 - **Other**: RESTful APIs, GraphQL, Microservices
 
@@ -27,44 +26,6 @@ Hi! I'm Adam, a Frontend Developer with a passion for building intuitive and sca
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adamramadhan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-## 🏆 Proyek Unggulan
-
-### 🧩 Js-component
-Komponen HTML sederhana untuk kebutuhan modular di proyek front-end.
-- **Tech Stack**: HTML, JavaScript
-- **Link**: [Repo](https://github.com/adamramadhan/Js-component)
-
-### 📊 github-readme-stats (Forked)
-Menampilkan statistik GitHub secara dinamis untuk README.
-- **Tech Stack**: JavaScript
-- **Link**: [Repo](https://github.com/adamramadhan/github-readme-stats)
-
-### 🧠 BE-PsychoTalk
-Backend API untuk platform konsultasi psikologi online.
-- **Tech Stack**: Node.js, Express
-- **Link**: [Repo](https://github.com/adamramadhan/BE-PsychoTalk)
-
-### 💬 PSYCOTALK-FE
-Frontend untuk aplikasi konsultasi psikologi.
-- **Tech Stack**: React, Tailwind CSS
-- **Link**: [Repo](https://github.com/adamramadhan/PSYCOTALK-FE)
-
-### 👥 El-Client-Dashboard *(Private)*
-Dashboard client untuk manajemen user dan data.
-- **Tech Stack**: React
-- **Status**: Private repository
-
-### 🧱 JS-COMPONENTS
-Kumpulan reusable component berbasis JavaScript murni.
-- **Tech Stack**: JavaScript
-- **Link**: [Repo](https://github.com/adamramadhan/JS-COMPONENTS)
-
-## 💼 Pengalaman Kerja
-
-**Frontend Developer** (Mar 2024 - Dec 2025)
-- Membangun UI/UX untuk web apps dengan React 
-- Mengoptimasi performance dan accessibility
 
 ## 📫 Cara Menghubungi Saya
 
