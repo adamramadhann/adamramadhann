@@ -21,11 +21,6 @@ Hi! I'm Adam, a Frontend Developer with a passion for building intuitive and sca
 - **UI/UX**: Responsive Design, Wireframing, Prototyping
 - **Other**: RESTful APIs, GraphQL, Microservices
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamramadhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ## 📫 Cara Menghubungi Saya
 
