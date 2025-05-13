@@ -10,6 +10,7 @@ Berikut profil GitHub README yang profesional dan sesuai dengan level keahlian A
 
 Emerging **Frontend Developer** specializing in modern JavaScript technologies. Currently focused on mastering React ecosystem and building responsive web applications with clean, maintainable code.
 
+```
 const devToolkit = {
   coreStack: {
     frontend: [
@@ -37,6 +38,7 @@ const devToolkit = {
     { name: "Redux", icon: "🗃️", progress: "30%" }
   ]
 };
+```
 
 ## 🔧 Technical Stack
 
