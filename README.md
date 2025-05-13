@@ -10,35 +10,72 @@ Berikut profil GitHub README yang profesional dan sesuai dengan level keahlian A
 
 Emerging **Frontend Developer** specializing in modern JavaScript technologies. Currently focused on mastering React ecosystem and building responsive web applications with clean, maintainable code.
 
-```
-const devToolkit = {
-  coreStack: {
-    frontend: [
-      { name: "React", icon: "⚛️", level: "Advanced" },
-      { name: "Next.js", icon: "🔗", level: "Intermediate" },
-      { name: "JavaScript", icon: "📜", level: "Advanced" }
-    ],
-    styling: [
-      { name: "CSS3", icon: "🎨", level: "Proficient" },
-      { name: "Tailwind", icon: "🌊", level: "Learning" }
-    ]
-  },
-  backendSkills: [
-    { name: "Node.js", icon: "🟢", level: "Intermediate" },
-    { name: "Express", icon: "🚂", level: "Intermediate" }
-  ],
-  devEssentials: [
-    { name: "Git", icon: "🌳", level: "Proficient" },
-    { name: "VS Code", icon: "💻", level: "Expert" },
-    { name: "Postman", icon: "📬", level: "Proficient" }
-  ],
-  inProgress: [
-    { name: "TypeScript", icon: "🟦", progress: "65%" },
-    { name: "Jest", icon: "🃏", progress: "40%" },
-    { name: "Redux", icon: "🗃️", progress: "30%" }
-  ]
-};
-```
+### 🛠 Tech Stack & Skills
+
+<table>
+  <tr>
+    <td><strong>Category</strong></td>
+    <td><strong>Technologies</strong></td>
+    <td><strong>Level</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Frontend</td>
+    <td>React ⚛️</td>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <td>Next.js 🔗</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>JavaScript 📜</td>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Styling</td>
+    <td>CSS3 🎨</td>
+    <td>Proficient</td>
+  </tr>
+  <tr>
+    <td>Tailwind 🌊</td>
+    <td>Learning</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Backend</td>
+    <td>Node.js 🟢</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Express 🚂</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Tools</td>
+    <td>Git 🌳</td>
+    <td>Proficient</td>
+  </tr>
+  <tr>
+    <td>VS Code 💻</td>
+    <td>Expert</td>
+  </tr>
+  <tr>
+    <td>Postman 📬</td>
+    <td>Proficient</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Learning</td>
+    <td>TypeScript 🟦 (65%)</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>Jest 🃏 (40%)</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>Redux 🗃️ (30%)</td>
+    <td>In Progress</td>
+  </tr>
+</table>
 
 ## 🔧 Technical Stack
 
