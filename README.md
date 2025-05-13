@@ -1,100 +1,89 @@
-# 🌟 Adam Ramadhan | Full-Stack Developer
+Berikut profil GitHub README yang profesional dan sesuai dengan level keahlian Anda saat ini:
+
+# Adam Ramadhan | Frontend Developer
 
 <div align="center">
-  
-![Profile Banner](https://github.com/adamramadhan/adamramadhan/blob/main/assets/github-banner.png?raw=true)
-
-[![Visitors](https://komarev.com/ghpvc/?username=adamramadhan&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/adamramadhan)
-[![GitHub Followers](https://img.shields.io/github/followers/adamramadhan?logo=github&style=flat&color=1da1f2)](https://github.com/adamramadhan)
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/adamramadhan)
-
+  <img src="https://github.com/adamramadhan/adamramadhan/blob/main/assets/web-dev-banner.png?raw=true" alt="Web Developer Banner" width="800"/>
 </div>
 
-## 👨 About Me
+## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with expertise in building modern web applications. With a strong foundation in both frontend and backend technologies, I specialize in creating seamless, performant digital experiences that users love.
+Emerging **Frontend Developer** specializing in modern JavaScript technologies. Currently focused on mastering React ecosystem and building responsive web applications with clean, maintainable code.
 
-```javascript
-const adam = {
-  pronouns: "He/Him",
-  code: ["JavaScript", "TypeScript"],
-  frameworks: ["React", "Next.js", "Node.js", "Express"],
-  databases: ["MySQL", "MongoDB", "PostgreSQL"],
-  tools: ["Docker", "Git", "Jest", "Webpack"],
-  architecture: ["Microservices", "RESTful APIs", "Serverless"],
-  currentFocus: "Building scalable SaaS applications",
-  funFact: "Can solve a Rubik's cube in under 2 minutes"
+const devToolkit = {
+  coreStack: {
+    frontend: [
+      { name: "React", icon: "⚛️", level: "Advanced" },
+      { name: "Next.js", icon: "🔗", level: "Intermediate" },
+      { name: "JavaScript", icon: "📜", level: "Advanced" }
+    ],
+    styling: [
+      { name: "CSS3", icon: "🎨", level: "Proficient" },
+      { name: "Tailwind", icon: "🌊", level: "Learning" }
+    ]
+  },
+  backendSkills: [
+    { name: "Node.js", icon: "🟢", level: "Intermediate" },
+    { name: "Express", icon: "🚂", level: "Intermediate" }
+  ],
+  devEssentials: [
+    { name: "Git", icon: "🌳", level: "Proficient" },
+    { name: "VS Code", icon: "💻", level: "Expert" },
+    { name: "Postman", icon: "📬", level: "Proficient" }
+  ],
+  inProgress: [
+    { name: "TypeScript", icon: "🟦", progress: "65%" },
+    { name: "Jest", icon: "🃏", progress: "40%" },
+    { name: "Redux", icon: "🗃️", progress: "30%" }
+  ]
 };
-```
 
-## 🛠 Tech Stack
+## 🔧 Technical Stack
 
-### Frontend
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&style=for-the-badge)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+### Supporting Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&style=for-the-badge)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&style=for-the-badge)
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
   
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamramadhan&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamramadhan&show_icons=true&theme=default&count_private=true&hide=stars)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamramadhan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamramadhan&layout=compact&theme=default)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📚 Currently Learning
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adamramadhan&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)
 
-## 🚀 Featured Projects
+## 🌱 Growth Mindset
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [E-Commerce Platform](https://github.com/adamramadhan/ecommerce) | Full-featured online store with payment integration | React, Node.js, MongoDB |
-| [Task Management App](https://github.com/adamramadhan/task-manager) | Collaborative task management solution | Next.js, Firebase, Tailwind CSS |
-| [AI Content Generator](https://github.com/adamramadhan/ai-writer) | GPT-3 powered content creation tool | Python, Flask, OpenAI API |
+> "Every day is an opportunity to improve my craft. I'm committed to writing better code, learning new technologies, and contributing to meaningful projects."
 
-## 💡 Currently Learning
-
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&style=flat)
-
-## 📫 Let's Connect
+## 📫 Get In Touch
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ramadhanadam1104@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/adamramadhan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge)](https://adamramadhan.dev)
+[![Email](https://img.shields.io/badge/Email-ramadhanadam1104@example.com-D14836?logo=gmail)](mailto:ramadhanadam1104@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Ramadhan-0077B5?logo=linkedin)](https://linkedin.com/in/adamramadhan)
+[![Twitter](https://img.shields.io/badge/Twitter-@adamdev-1DA1F2?logo=twitter)](https://twitter.com/adamdev)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Coding GIF](https://github.com/adamramadhan/adamramadhan/blob/main/assets/coding.gif?raw=true)
-
+  <img src="https://github.com/adamramadhan/adamramadhan/blob/main/assets/coding-illustration.png?raw=true" alt="Coding Illustration" width="400"/>
 </div>
 
-<h3 align="center">
-  <i>"Turning complex problems into elegant solutions through code."</i>
-</h3>
-
----
-
-⭐️ From [adamramadhan](https://github.com/adamramadhan)
