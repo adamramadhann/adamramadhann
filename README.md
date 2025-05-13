@@ -1,5 +1,3 @@
-Berikut profil GitHub README yang profesional dan sesuai dengan level keahlian Anda saat ini:
-
 # Adam Ramadhan | Frontend Developer
 
 <div align="center">
