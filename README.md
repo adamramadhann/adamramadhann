@@ -1,4 +1,4 @@
-# Adam Ramadhan | Frontend Developer
+# Adam Ramadhan | Junior Full Stack Developer 
 
 <div align="center">
   <img src="https://github.com/adamramadhan/adamramadhan/blob/main/assets/web-dev-banner.png?raw=true" alt="Web Developer Banner" width="800"/>
